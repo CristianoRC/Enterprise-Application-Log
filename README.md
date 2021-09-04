@@ -1,8 +1,11 @@
 # Enterprise Application Log
 
+![imagem](https://cdn2.iconfinder.com/data/icons/data-analytics-volume-2/512/LOG_FILE-128.png)
+
+ 
+## Emplos
 
 - [Exemplo com .NET + NEST + ElasticSearch + Kibana](./Elastic-Kibana)
-
 
 ## Estrategias para guarda log
 
