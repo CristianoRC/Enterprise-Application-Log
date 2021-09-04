@@ -1,6 +1,6 @@
 # Enterprise Application Log
 
-- [Exemplo com .NET + ElasticSearch + Kibana](./Elastic-Kibana)
+- [Exemplo com .NET + NEST + ElasticSearch + Kibana](./Elastic-Kibana)
 
 
 ## Estrategias para guarda log
